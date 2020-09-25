@@ -428,3 +428,4 @@ int main()
     }
     return 0;
 }
+#This code finally adds three kinds of customers to the database.
